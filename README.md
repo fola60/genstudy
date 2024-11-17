@@ -1,0 +1,3 @@
+### Genstudy
+
+Ai study app 
